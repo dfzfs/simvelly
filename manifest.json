@@ -1,0 +1,11 @@
+{
+    "display_name": "Larkhaven (심밸리)",
+    "loading_order": 100,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "author": "SimValley",
+    "version": "3.1.0",
+    "homePage": "https://github.com/USERNAME/SillyTavern-Larkhaven",
+    "auto_update": true
+}
